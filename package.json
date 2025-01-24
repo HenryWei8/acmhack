@@ -24,7 +24,6 @@
     "vite": "^5.4.11"
   },
   "dependencies": {
-    "@prisma/client": "^6.2.1",
-    "@sveltejs/adapter-vercel": "^5.5.3"
+    "@prisma/client": "^6.2.1"
   }
 }
